@@ -10,6 +10,6 @@
 > Enum types are ideal for representing a concise set of choices in your code, enhancing readability and maintainability.
 
 **Check the related demo applications:**
-[EnumTypeDemo1](https://github.com/cmkaya/dotnet-practical-guide/tree/main/demos/CSharpDemoApps/EnumTypeDemo1)
-[EnumTypeDemo2](https://github.com/cmkaya/dotnet-practical-guide/tree/main/demos/CSharpDemoApps/EnumTypeDemo2)
-[EnumTypeDemo3](https://github.com/cmkaya/dotnet-practical-guide/tree/main/demos/CSharpDemoApps/EnumTypeDemo3)
+- [EnumTypeDemo1](https://github.com/cmkaya/dotnet-practical-guide/tree/main/demos/CSharpDemoApps/EnumTypeDemo1)
+- [EnumTypeDemo2](https://github.com/cmkaya/dotnet-practical-guide/tree/main/demos/CSharpDemoApps/EnumTypeDemo2)
+- [EnumTypeDemo3](https://github.com/cmkaya/dotnet-practical-guide/tree/main/demos/CSharpDemoApps/EnumTypeDemo3)
