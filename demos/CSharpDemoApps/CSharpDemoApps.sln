@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumTypeDemo2", "EnumTypeDe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumTypeDemo3", "EnumTypeDemo3\EnumTypeDemo3.csproj", "{CCF7E8BC-172C-4F59-8645-1FB17F994D8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticsDemo1", "StaticsDemo1\StaticsDemo1.csproj", "{B6639E1D-11EB-46CD-85E1-1B5558E055A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticsDemo2", "StaticsDemo2\StaticsDemo2.csproj", "{6C740E7F-6632-474D-B6A9-761DDACE68D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{CCF7E8BC-172C-4F59-8645-1FB17F994D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCF7E8BC-172C-4F59-8645-1FB17F994D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCF7E8BC-172C-4F59-8645-1FB17F994D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6639E1D-11EB-46CD-85E1-1B5558E055A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6639E1D-11EB-46CD-85E1-1B5558E055A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6639E1D-11EB-46CD-85E1-1B5558E055A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6639E1D-11EB-46CD-85E1-1B5558E055A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C740E7F-6632-474D-B6A9-761DDACE68D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C740E7F-6632-474D-B6A9-761DDACE68D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C740E7F-6632-474D-B6A9-761DDACE68D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C740E7F-6632-474D-B6A9-761DDACE68D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
