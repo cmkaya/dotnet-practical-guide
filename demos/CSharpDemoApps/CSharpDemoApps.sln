@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticsDemo1", "StaticsDemo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticsDemo2", "StaticsDemo2\StaticsDemo2.csproj", "{6C740E7F-6632-474D-B6A9-761DDACE68D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorsDemo2", "ConstructorsDemo2\ConstructorsDemo2.csproj", "{3B0B2825-780F-4CBF-9078-0222B8572858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorsDemo1", "ConstructorsDemo1\ConstructorsDemo1.csproj", "{F0DFF5F2-DB61-46AD-91D4-59DB84E38445}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{6C740E7F-6632-474D-B6A9-761DDACE68D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C740E7F-6632-474D-B6A9-761DDACE68D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C740E7F-6632-474D-B6A9-761DDACE68D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B0B2825-780F-4CBF-9078-0222B8572858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0B2825-780F-4CBF-9078-0222B8572858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0B2825-780F-4CBF-9078-0222B8572858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0B2825-780F-4CBF-9078-0222B8572858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0DFF5F2-DB61-46AD-91D4-59DB84E38445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0DFF5F2-DB61-46AD-91D4-59DB84E38445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0DFF5F2-DB61-46AD-91D4-59DB84E38445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0DFF5F2-DB61-46AD-91D4-59DB84E38445}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
