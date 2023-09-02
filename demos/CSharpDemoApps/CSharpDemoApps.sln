@@ -16,6 +16,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorsDemo1", "Constr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsDemo1", "MethodsDemo1\MethodsDemo1.csproj", "{1D144117-4087-46E3-8E21-E12328D5E755}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethodsDemo1", "ExtensionMethodsDemo1\ExtensionMethodsDemo1.csproj", "{20F753B2-C902-43FA-9EFA-EB84FFDFBF45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethodsDemo2", "ExtensionMethodsDemo2\ExtensionMethodsDemo2.csproj", "{BE5C2169-E097-4D98-9BB1-001793518837}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +58,13 @@ Global
 		{1D144117-4087-46E3-8E21-E12328D5E755}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D144117-4087-46E3-8E21-E12328D5E755}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D144117-4087-46E3-8E21-E12328D5E755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20F753B2-C902-43FA-9EFA-EB84FFDFBF45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F753B2-C902-43FA-9EFA-EB84FFDFBF45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F753B2-C902-43FA-9EFA-EB84FFDFBF45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F753B2-C902-43FA-9EFA-EB84FFDFBF45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE5C2169-E097-4D98-9BB1-001793518837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5C2169-E097-4D98-9BB1-001793518837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5C2169-E097-4D98-9BB1-001793518837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5C2169-E097-4D98-9BB1-001793518837}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
