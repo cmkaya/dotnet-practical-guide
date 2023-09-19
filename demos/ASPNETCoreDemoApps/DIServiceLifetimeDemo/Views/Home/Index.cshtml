@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    <h1 class="display-4">Lifetimes</h1>
+    <h2>@ViewData["Title"]</h2>
+    <hr/>
+    <ul style="list-style-type: none;">
+        @foreach (var message in ViewBag.Messages)
+        {
+            <li>@message</li>
+        }
+    </ul>
+</div>
